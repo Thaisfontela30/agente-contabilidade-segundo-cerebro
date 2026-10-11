@@ -1,0 +1,16 @@
+# Git ignore
+
+# Arquivos locais
+.DS_Store
+Thumbs.db
+
+# Ambientes de desenvolvimento
+.env
+.env.*
+
+# Logs
+*.log
+
+# Cache
+__pycache__/
+*.pyc
